@@ -26,8 +26,8 @@ KyoRox is an engineering-first B2B authentication middleware engine that convert
 
 | Repository | Stack | Purpose |
 | :--- | :--- | :--- |
-| **[`kyorox-node-jwt-example`](https://github.com/kyorox/kyorox-node-jwt-example)** | Node.js / Express / Fastify (Zero External Deps) | Production reference showing how to initiate SSO and verify incoming `HS256` JWT handoffs from `sso.kyorox.com`. |
-| **[`kyorox-python-jwt-example`](https://github.com/kyorox/kyorox-python-jwt-example)** | Python 3 / FastAPI / Flask | Production reference for verifying KyoRox `HS256` SAML-to-JWT callback tokens in Python backends. |
+| **[`kyorox-node-jwt-example`](https://github.com/kyorox-official/kyorox-node-jwt-example)** | Node.js / Express / Fastify (Zero External Deps) | Production reference showing how to initiate SSO and verify incoming `HS256` JWT handoffs from `sso.kyorox.com`. |
+| **[`kyorox-python-jwt-example`](https://github.com/kyorox-official/kyorox-python-jwt-example)** | Python 3 / FastAPI / Flask | Production reference for verifying KyoRox `HS256` SAML-to-JWT callback tokens in Python backends. |
 
 ---
 
